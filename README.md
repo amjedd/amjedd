@@ -5,7 +5,7 @@
 
 # Who I'm ?
 <p> Name: Amjed Mohammed .</p>
-<p> Contact: amjed.hamud@gmail.com</p>.
+<p> Contact: amjed.hamud@gmail.com</p>
 
 
 
